@@ -15,3 +15,5 @@ function calcularFrete(valorCompra, distanciaKm) {
 // Exemplo de uso:
 const frete = calcularFrete(120, 10);
 console.log(`Frete: R$ ${frete.toFixed(2)}`);
+
+//Teste
